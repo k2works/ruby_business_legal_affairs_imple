@@ -21,6 +21,13 @@ Rubyによる経営法務モデルの実装
 bundle exec rubocop --auto-gen-config
 ```
 
+### Git Hooksの設定
+```
+bundle exec overcommit --install
+bundle exec overcommit -s
+bundle exec overcommit -l
+```
+
 ## 運用
 ### ドキュメントサーバー起動
 ```bash
