@@ -16,6 +16,11 @@ Rubyによる経営法務モデルの実装
 + AsciiDocセットアップ
 + 運用スクリプトセットアップ
 
+### RuboCopセットアップ
+```bash
+bundle exec rubocop --auto-gen-config
+```
+
 ## 運用
 ### ドキュメントサーバー起動
 ```bash
