@@ -1,0 +1,2 @@
+# ruby_business_legal_affairs_imple
+Rubyによる経営法務モデルの実装
